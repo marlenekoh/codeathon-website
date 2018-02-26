@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Indie Flower');
 body {
-	font-family: Helvetica;
+	font-family: "Indie Flower";
 	background-image: url("http://www.color-hex.com/palettes/13735.png");
 }
 div.simple {
