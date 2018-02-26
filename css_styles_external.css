@@ -1,0 +1,19 @@
+body {
+	font-family: Helvetica;
+	background-image: url("http://www.color-hex.com/palettes/13735.png");
+}
+div.simple {
+	background: mistyrose;
+	width: 300px;
+	border: 25px;
+	padding: 25px;
+	margin: 25px;
+	color: darksalmon;
+}
+h2 {
+	color: salmon;
+	margin-left: 40px;
+}
+#special {
+	color: steelblue;
+}
